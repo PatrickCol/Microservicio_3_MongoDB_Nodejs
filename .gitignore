@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+*.log
+
+# Docker
+*.local
+*.pid
+docker-compose.override.yml
+
+# Sistema
+.DS_Store
+*.swp
