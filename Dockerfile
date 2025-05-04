@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Definir comando para ejecutar la app
-CMD ["node", "src/app.js"]
+CMD ["node", "app.js"]
